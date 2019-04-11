@@ -71,9 +71,9 @@
       <category term="vue.js" scheme="http://www.mymgt360124.cn/categories/javascript/webpack/vue-js/"/>
     
     
-      <category term="javascript" scheme="http://www.mymgt360124.cn/tags/javascript/"/>
-    
       <category term="vue.js" scheme="http://www.mymgt360124.cn/tags/vue-js/"/>
+    
+      <category term="javascript" scheme="http://www.mymgt360124.cn/tags/javascript/"/>
     
       <category term="webpack" scheme="http://www.mymgt360124.cn/tags/webpack/"/>
     
@@ -101,9 +101,9 @@ function m
       <category term="javascript" scheme="http://www.mymgt360124.cn/categories/javascript/"/>
     
     
-      <category term="javascript" scheme="http://www.mymgt360124.cn/tags/javascript/"/>
-    
       <category term="vue.js" scheme="http://www.mymgt360124.cn/tags/vue-js/"/>
+    
+      <category term="javascript" scheme="http://www.mymgt360124.cn/tags/javascript/"/>
     
   </entry>
   
@@ -165,37 +165,6 @@ function m
   </entry>
   
   <entry>
-    <title>计算机组成基础知识</title>
-    <link href="http://www.mymgt360124.cn/2017/10/05/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
-    <id>http://www.mymgt360124.cn/2017/10/05/计算机组成原理/</id>
-    <published>2017-10-05T13:00:04.000Z</published>
-    <updated>2019-04-11T01:37:48.636Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="计算机组成原理"><a href="#计算机组成原理" class="headerlink" title="计算机组成原理"></a>计算机组成原理</h1><ul><li>存储器(内存):<blockquote><p>用于存储，实现记忆功能的部件用来存放计算程序及参与运算的各种数据</p></blockquote></li><li>运算器(cpu):<blockquote><p>负责数据的算术运算和逻辑运算即数据的加工处理</p></blockquote></li><li>控制器:<blockquote><p>负责对程序规定的控制信息进行分析,控制并协调输入,输出操作或内存访问</p></blockquote></li><li>输入设备:<blockquote><p>实现计算程序和原始数据的输入</p></blockquote></li><li>输出设备:<blockquote><p>实现计算结果输出</p></blockquote></li></ul><p><img src="../../../img/5.jpg" alt="计算机组成原理"></p><p><img src="../../../img/2.jpg" alt="计算机组成原理"></p><h2 id="计算机体系结构图"><a href="#计算机体系结构图" class="headerlink" title="计算机体系结构图"></a>计算机体系结构图</h2><p><img src="../../../img/3.png" alt="计算机系统的体系结构图"></p><h2 id="内存图"><a href="#内存图" class="headerlink" title="内存图"></a>内存图</h2><p><img src="../../../img/4.jpg" alt="存储器图"></p><h2 id="存储器"><a href="#存储器" class="headerlink" title="存储器"></a>存储器</h2><p>定义:计算机存储是存放数据和程序的设备</p><ul><li><p>分类:</p><blockquote><p>主存储器:　　也称内存,存储直接与CPU交换信息,由半导体存储器组成</p></blockquote><blockquote><p>辅助存储器:　　也称外存,存放当前不立即使用的信息,它与主存储器批量交换信息,由磁带机,磁带盘及光盘组成</p></blockquote></li></ul><h2 id="1-异步I-O流和同步I-O流"><a href="#1-异步I-O流和同步I-O流" class="headerlink" title="1. 异步I/O流和同步I/O流"></a>1. 异步I/O流和同步I/O流</h2><h2 id="2-进程和线程"><a href="#2-进程和线程" class="headerlink" title="2. 进程和线程"></a>2. 进程和线程</h2><h2 id="3-栈和堆内存的区别"><a href="#3-栈和堆内存的区别" class="headerlink" title="3. 栈和堆内存的区别"></a>3. 栈和堆内存的区别</h2>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;计算机组成原理&quot;&gt;&lt;a href=&quot;#计算机组成原理&quot; class=&quot;headerlink&quot; title=&quot;计算机组成原理&quot;&gt;&lt;/a&gt;计算机组成原理&lt;/h1&gt;&lt;ul&gt;
-&lt;li&gt;存储器(内存):&lt;blockquote&gt;
-&lt;p&gt;用于存储，实现记忆功能的部件用来存放计算
-      
-    
-    </summary>
-    
-      <category term="计算机" scheme="http://www.mymgt360124.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
-    
-      <category term="组成原理" scheme="http://www.mymgt360124.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
-    
-    
-      <category term="计算机" scheme="http://www.mymgt360124.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
-    
-      <category term="组成原理" scheme="http://www.mymgt360124.cn/tags/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
-    
-  </entry>
-  
-  <entry>
     <title>计算机网络基础知识</title>
     <link href="http://www.mymgt360124.cn/2017/10/05/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
     <id>http://www.mymgt360124.cn/2017/10/05/计算机网络基础知识/</id>
@@ -222,6 +191,37 @@ function m
       <category term="计算机" scheme="http://www.mymgt360124.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
     
       <category term="网络" scheme="http://www.mymgt360124.cn/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机组成基础知识</title>
+    <link href="http://www.mymgt360124.cn/2017/10/05/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    <id>http://www.mymgt360124.cn/2017/10/05/计算机组成原理/</id>
+    <published>2017-10-05T13:00:04.000Z</published>
+    <updated>2019-04-11T02:12:24.509Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="计算机组成原理"><a href="#计算机组成原理" class="headerlink" title="计算机组成原理"></a>计算机组成原理</h1><ul><li>存储器(内存):<blockquote><p>用于存储，实现记忆功能的部件用来存放计算程序及参与运算的各种数据</p></blockquote></li><li>运算器(cpu):<blockquote><p>负责数据的算术运算和逻辑运算即数据的加工处理</p></blockquote></li><li>控制器:<blockquote><p>负责对程序规定的控制信息进行分析,控制并协调输入,输出操作或内存访问</p></blockquote></li><li>输入设备:<blockquote><p>实现计算程序和原始数据的输入</p></blockquote></li><li>输出设备:<blockquote><p>实现计算结果输出</p></blockquote></li></ul><p><img src="/images/5.jpg" alt="计算机组成原理"></p><p><img src="/images/2.jpg" alt="计算机组成原理"></p><h2 id="计算机体系结构图"><a href="#计算机体系结构图" class="headerlink" title="计算机体系结构图"></a>计算机体系结构图</h2><p><img src="/images/3.png" alt="计算机系统的体系结构图"></p><h2 id="内存图"><a href="#内存图" class="headerlink" title="内存图"></a>内存图</h2><p><img src="/images/4.jpg" alt="存储器图"></p><h2 id="存储器"><a href="#存储器" class="headerlink" title="存储器"></a>存储器</h2><p>定义:计算机存储是存放数据和程序的设备</p><ul><li><p>分类:</p><blockquote><p>主存储器:　　也称内存,存储直接与CPU交换信息,由半导体存储器组成</p></blockquote><blockquote><p>辅助存储器:　　也称外存,存放当前不立即使用的信息,它与主存储器批量交换信息,由磁带机,磁带盘及光盘组成</p></blockquote></li></ul><h2 id="1-异步I-O流和同步I-O流"><a href="#1-异步I-O流和同步I-O流" class="headerlink" title="1. 异步I/O流和同步I/O流"></a>1. 异步I/O流和同步I/O流</h2><h2 id="2-进程和线程"><a href="#2-进程和线程" class="headerlink" title="2. 进程和线程"></a>2. 进程和线程</h2><h2 id="3-栈和堆内存的区别"><a href="#3-栈和堆内存的区别" class="headerlink" title="3. 栈和堆内存的区别"></a>3. 栈和堆内存的区别</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;计算机组成原理&quot;&gt;&lt;a href=&quot;#计算机组成原理&quot; class=&quot;headerlink&quot; title=&quot;计算机组成原理&quot;&gt;&lt;/a&gt;计算机组成原理&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;存储器(内存):&lt;blockquote&gt;
+&lt;p&gt;用于存储，实现记忆功能的部件用来存放计算
+      
+    
+    </summary>
+    
+      <category term="计算机" scheme="http://www.mymgt360124.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="组成原理" scheme="http://www.mymgt360124.cn/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
+    
+    
+      <category term="计算机" scheme="http://www.mymgt360124.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA/"/>
+    
+      <category term="组成原理" scheme="http://www.mymgt360124.cn/tags/%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/"/>
     
   </entry>
   
