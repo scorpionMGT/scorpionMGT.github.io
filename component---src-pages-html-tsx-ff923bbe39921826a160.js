@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{ufcN:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),o=a.n(n),c=a("Wbzz"),l=a("C5yf"),u=a("AcJn");t.default=function(){return o.a.createElement(l.a,null,o.a.createElement(u.a,{title:"about taoguomao"}),o.a.createElement("h1",null,"Hi from the second page"),o.a.createElement("p",null,"Welcome to page 2"),o.a.createElement(c.Link,{to:"/"},"Go back to the homepage"))}}}]);
-//# sourceMappingURL=component---src-pages-html-tsx-ff923bbe39921826a160.js.map
