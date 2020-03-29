@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"2l/u":function(t,e,a){"use strict";a.r(e);var n=a("q1tI"),o=a.n(n),u=a("C5yf"),c=a("AcJn");e.default=function(){return o.a.createElement(u.a,{style:{maxWidth:"100%"}},o.a.createElement(c.a,{title:"about taoguomao"}),o.a.createElement("h1",null,"about"))}}}]);
+//# sourceMappingURL=component---src-pages-about-tsx-cf65d94bf3eed92cbd5c.js.map

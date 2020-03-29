@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{ufcN:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),u=n.n(a),c=n("C5yf"),l=n("AcJn");t.default=function(){return u.a.createElement(c.a,null,u.a.createElement(l.a,{title:"about taoguomao"}),u.a.createElement("h1",null,"Html"))}}}]);
-//# sourceMappingURL=component---src-pages-html-tsx-607fb9c39daf80a28701.js.map
