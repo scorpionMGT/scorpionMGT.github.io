@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{QeBL:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),o=t.n(a),c=t("C5yf"),u=t("AcJn");n.default=function(){return o.a.createElement(c.a,null,o.a.createElement(u.a,{title:"maoguotao"}),"index")}}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-969e0dc71f6451b63f28.js.map
